@@ -1,0 +1,139 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOD98KBJYMqUpSumX/Nw/Ak",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/AndersonGL/Calculadora-/blob/main/Estudos%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "EfYBHa9JVYY5",
+        "outputId": "39f6c0a2-f96f-43bc-a85d-bae879f9e9be"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "hello, world!\n"
+          ]
+        }
+      ],
+      "source": [
+        "print('hello, world!')"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "idade = input('digite sua idade: ')\n",
+        "print(idade)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "j84uaXKkV2Xy",
+        "outputId": "24df6549-072e-4ae5-fad8-25e71a28969f"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "digite sua idade: 18\n",
+            "18\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "frutas = ['laranja', 'maca', 'uva']\n",
+        "print(frutas[1])"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "C3hzCszAV_JK",
+        "outputId": "c713caa2-b1e9-4577-8c49-720de0facb12"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "maca\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "idade = 10\n",
+        "\n",
+        "if idade >= 18:\n",
+        "  print('Maior de idade')\n",
+        "else:\n",
+        "  print('Menor de idade')"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Q5LwyiJoXJWn",
+        "outputId": "857b71ce-be82-4ff6-bfe9-87def9c3a833"
+      },
+      "execution_count": 4,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Menor de idade\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "WjLwexbmY_Yb"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
