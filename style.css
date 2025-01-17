@@ -6,9 +6,10 @@ body{
 #calculator{
     width: 200px;
     background: #2a2b29;
+    color: #fff;
     padding: 20px;
     border-radius: 20px;
-    box-shadow: 0 0 10px #000 ;
+    box-shadow: 0 0 10px #fff ;
     margin: 200px auto;
 
     display: grid;
@@ -30,7 +31,7 @@ button{
 font-size: 25px;
 margin-bottom: 15px;
     grid-column: 1/ 5;
-    box-shadow: inset 3px 2px 4px 1px #ffffff;
+    box-shadow: inset 3px 2px 4px 1px #000;
     border-radius: 5px;
     text-align: right;
     overflow: hidden;
@@ -39,11 +40,11 @@ margin-bottom: 15px;
 .mais{
     grid-column: 4 /5;
     grid-row: 5 /7;
-    background: #ffffff;
+    background: #fff;
     
 }
 
 .zero{
-    background: #ffffff;
+    background: #fff;
     grid-column: 1 /3;
 }
