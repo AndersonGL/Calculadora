@@ -39,8 +39,8 @@ button{
 
 #display{
     padding: 10px;
-font-size: 30px;
-margin-bottom: 15px;
+    font-size: 25px;
+    margin-bottom: 15px;
     grid-column: 1/ 5;
     box-shadow: inset 3px 2px 4px 1px #000;
     border-radius: 5px;
