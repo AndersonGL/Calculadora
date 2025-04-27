@@ -14,10 +14,10 @@ h1, p{
 
 #calculator{
     
-    width: 200px;
+    width: 300px;
     background: #2a2b29;
     color: #fff;
-    padding: 20px;
+    padding: 10px;
     border-radius: 20px;
     box-shadow: 0 0 10px #fff ;
     margin: 200px auto;
