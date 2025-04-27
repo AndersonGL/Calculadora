@@ -1,3 +1,3 @@
 # **Projeto Calculadora**
 
-  **Html ,Css e JavaScript**
+  ** Utilizando Html ,Css e JavaScript**
